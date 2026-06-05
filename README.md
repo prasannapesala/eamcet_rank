@@ -2,6 +2,10 @@
 
 A web-based PHP application that helps students estimate college admission possibilities based on their EAMCET rank.
 
+## Database Setup
+
+Import the `colleges.sql` file into MySQL before running the project.
+
 ## Features
 
 * Search colleges using EAMCET rank
